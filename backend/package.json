@@ -6,7 +6,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.4",
-    "mongoose": "^5.2.4",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1",
     "nodemon": "^1.18.3",
     "ramda": "^0.26.1",
